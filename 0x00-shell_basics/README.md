@@ -12,4 +12,6 @@
 
 6-firstdirectory : Script creates a directory in the tmp directory
 
-7-movethatfile : move a file to a directory 
+7-movethatfile : move a file to a directory
+
+8-firstdelete : delete a file in a directory 
