@@ -23,3 +23,5 @@
 11-lists : display hidden files in . .. and /boot
 
 12-file_type : prints the  file type 
+
+13-symbolic_link : Creaating a symbolic link
