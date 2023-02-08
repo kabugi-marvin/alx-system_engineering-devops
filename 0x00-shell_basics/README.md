@@ -2,4 +2,6 @@
 
 2-bring_me_home : This script changes the working directory to the user's home directory
 
-1-listit : This script displays the contents of the current directory 
+1-listit : This script displays the contents of the current directory
+
+3-listfiles : This script displays current directory in long format 
