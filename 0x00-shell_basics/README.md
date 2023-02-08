@@ -8,4 +8,6 @@
 
 4-listmorefiles : Script displays all files including the hidden in long format
 
-5-listfilesdigitonly : Script displays content of current directory in long format and with user and group IDs numerical as wel as hidden files 
+5-listfilesdigitonly : Script displays content of current directory in long format and with user and group IDs numerical as wel as hidden files
+
+6-firstdirectory : Script creates a directory in the tmp directory 
