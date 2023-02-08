@@ -4,4 +4,6 @@
 
 1-listit : This script displays the contents of the current directory
 
-3-listfiles : This script displays current directory in long format 
+3-listfiles : This script displays current directory in long format
+
+4-listmorefiles : Script displays all files including the hidden in long format 
