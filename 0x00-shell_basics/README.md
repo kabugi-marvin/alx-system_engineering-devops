@@ -18,4 +18,6 @@
 
 9-firstdirdeletion : delete a directory in a directory
 
-10-back : goes back to the previous working directory 
+10-back : goes back to the previous working directory
+
+11-lists : display hidden files in . .. and /boot 
