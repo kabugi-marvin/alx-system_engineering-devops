@@ -20,4 +20,6 @@
 
 10-back : goes back to the previous working directory
 
-11-lists : display hidden files in . .. and /boot 
+11-lists : display hidden files in . .. and /boot
+
+12-file_type : prints the  file type 
