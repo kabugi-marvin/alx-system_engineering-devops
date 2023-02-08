@@ -16,4 +16,6 @@
 
 8-firstdelete : delete a file in a directory
 
-9-firstdirdeletion : delete a directory in a directory 
+9-firstdirdeletion : delete a directory in a directory
+
+10-back : goes back to the previous working directory 
