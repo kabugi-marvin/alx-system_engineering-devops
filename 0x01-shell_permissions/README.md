@@ -3,3 +3,5 @@
 1-who_am_i: this prints the effective user name of the current user
 
 2-groups: prints all the groups the user is part of
+
+3-new_owner: Changes the owner of the file 'hello' to the user 'betty'
