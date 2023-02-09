@@ -32,3 +32,5 @@
 	* The file olleh will be in the working directory
 
 11-directories_permissions: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
+
+12-directory_permissions: creates a directory called my_dir with permissions 751 in the working directory.
